@@ -11,7 +11,7 @@
 
 This is a repository for my answers to the exercises in the  <a href="https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html#%_toc_start">Structure and Interpretation of Computer Programs.</a>
 
-This only includes the scheme programming exercises and not the proof-based and writted exercises.
+This only includes the scheme programming exercises and not the proof-based and written exercises.
 
 
 # Scheme/Racket
